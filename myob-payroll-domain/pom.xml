@@ -1,0 +1,16 @@
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>myob-payroll-api</artifactId>
+        <groupId>au.com.myob.payroll</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>myob-payroll-domain</artifactId>
+    <packaging>jar</packaging>
+
+    <name>myob-payroll-domain</name>
+    <url>http://maven.apache.org</url>
+
+</project>
